@@ -1,0 +1,4 @@
+
+public enum Matiere {
+ MATH, FRANCAIS, SVT, PYSIQUE_CHIMIE, ANGLAIS
+}
